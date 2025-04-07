@@ -1,0 +1,4 @@
+# to auto set column values 
+# cell CellNum = Fail/Pass Status 
+# 1,0 = value to input 
+=IF(CellNum="Fail",1,0) 
